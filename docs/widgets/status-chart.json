@@ -1,0 +1,1 @@
+[{"uid":"e7fe4298eda18a52","name":"Sales Invoice Creation Test","time":{"start":1756882313973,"stop":1756882341855,"duration":27882},"status":"passed","severity":"normal"},{"uid":"1e8c71dc4f3f6ec2","name":"Detect duplicate invoice Test","time":{"start":1756888054765,"stop":1756888079887,"duration":25122},"status":"passed","severity":"critical"}]
